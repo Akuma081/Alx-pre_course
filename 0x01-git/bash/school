@@ -1,3 +1,2 @@
-echoschool
 #!/bin/bash
-#!/bin/bash
+echo "School"
